@@ -20,5 +20,4 @@ PROGRAM bissec
             EXIT
         end if
     end do
-    print*, i
 END PROGRAM
